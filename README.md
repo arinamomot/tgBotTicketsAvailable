@@ -8,7 +8,6 @@ A bot designed to automatically check and notify user about ticket availability 
 - Real-time notifications when tickets become available
 - Customizable checking intervals
 
-
 ## For Google Colab
 ```bash
 %%shell
@@ -33,3 +32,5 @@ pip install selenium chromedriver_autoinstaller
 !apt install chromium-chromedriver
 !pip install webdriver_manager
 ```
+
+## TODO: Rewrite for better deploy
